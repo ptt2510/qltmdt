@@ -1,6 +1,6 @@
 THIẾT KẾ CSDL QUẢN LÝ TRANG THƯƠNG MẠI ĐIỆN TỬ SQL SERVER
 ------------------
-Bài toán:
+ Bài toán:
 Một trang thương mại điện tử muốn thiết kế csdl để quản lý các hoạt 
 động buôn bán. Người dùng sau khi đăng ký tài khoản sẽ trở thành 
 thành viên của trang thương mại điện tử.  
@@ -21,5 +21,5 @@ chuyển có nhiều nhân viên.
 + Thông tin nhân viên: mã nhân viên, tên, giới tính , sdt. 1 nhân viên có 
 thể vận chuyển nhiều đơn, 1 đơn được vận chuyển bởi 1 hoặc nhiều 
 nhân viên .Thành viên có thể khiếu nại,trả tiền đơn hàng. 
-+Thông tin đơn khiếu nại gồm: mã đơn khiếu nại, ngày lập, người lập, 
++ Thông tin đơn khiếu nại gồm: mã đơn khiếu nại, ngày lập, người lập, 
 shop, đơn hàng, lý do. 

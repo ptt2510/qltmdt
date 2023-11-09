@@ -1,7 +1,7 @@
 THIẾT KẾ CSDL QUẢN LÝ TRANG THƯƠNG MẠI ĐIỆN TỬ SQL SERVER
 ------------------
  Bài toán:
-Một trang thương mại điện tử muốn thiết kế csdl để quản lý các hoạt 
+Một trang thương mại điện tử muốn thiết kế cơ sở dữ liệu để quản lý các hoạt 
 động buôn bán. Người dùng sau khi đăng ký tài khoản sẽ trở thành 
 thành viên của trang thương mại điện tử.  
 + Thông tin thành viên gồm : mã thành viên, tên, sđt, địa chỉ, ngày tham 

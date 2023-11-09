@@ -15,7 +15,7 @@ nhiều đơn nhưng 1 đơn chỉ thuộc về 1 shop và 1 thành viên.
 + Thông tin đơn hàng gồm : mã đơn, ngày lập, giá ban đầu, đơn vị vận 
 chuyển, địa chỉ, số điện thoại khách, ngày giao thành công, tên khách 
 hàng, hình thức thanh toán , voucher shop, voucher  vanchuyen, giá 
-cuối cùng, giá vận chuyển cuối cùng, tongtien,shop.  
+cuối cùng, giá vận chuyển cuối cùng, tổng tiền,shop.  
 + Thông tin đơn vị vận chuyển gồm : mã đơn vị, tên, địa chỉ. Đơn vị vận 
 chuyển có nhiều nhân viên.  
 + Thông tin nhân viên: mã nhân viên, tên, giới tính , sdt. 1 nhân viên có 
